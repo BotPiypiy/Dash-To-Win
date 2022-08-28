@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 446310c7eb0d79a409bf9fb7a2d25d43, type: 3}
+  m_Name: PlayerParameters
+  m_EditorClassIdentifier: 
+  MoveSpeed: 5
+  DashDistance: 5
+  DashSpeed: 10
+  DeadStateDuration: 3
+  DefaultMaterial: {fileID: 2100000, guid: ab62ed05fe37010439265e20d251699a, type: 2}
+  DashMaterial: {fileID: 2100000, guid: 374d3600a99a4544b8b8a9823cccf360, type: 2}
+  DeadMaterial: {fileID: 2100000, guid: db626559c4bc09f46b0b3fdf6f3b018a, type: 2}
